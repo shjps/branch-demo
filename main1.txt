@@ -1,2 +1,6 @@
 main1
+<<<<<<< HEAD
 addition from main
+=======
+addition from feat
+>>>>>>> feat
